@@ -22,7 +22,7 @@ logging.basicConfig(
 )
 
 # Укажите ваш токен от @BotFather
-BOT_TOKEN = "8984547798:AAGRG64kGgwmJOQ9tFauTui8ZDaM_XnA9xw"
+BOT_TOKEN = "hui_tebe"
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
